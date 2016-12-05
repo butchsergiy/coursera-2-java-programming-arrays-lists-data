@@ -14,14 +14,14 @@ public class Class1 {
 /**
  * Simple stopWatch to measure operation last time.
  */
-        String label = "CaesarCipher.code()";
+        String label = "CaesarCipher.encryptV2()";
         Monitor mon = MonitorFactory.start(label);
 
         String tocode = "abc def";
 
         for (int i = 0; i < 10; i++) {
 
-            tocode = tocode + " " + cc.code(tocode, 5) + " " + i;
+            tocode = tocode + " " + cc.encryptV2(tocode, 5) + " " + i;
 
         }
 
