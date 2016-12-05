@@ -1,0 +1,39 @@
+<component name="libraryTable">
+  <library name="com.jamonapi:jamon:2.81" type="repository">
+    <properties maven-id="com.jamonapi:jamon:2.81" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/jamonapi/jamon-2.81.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jamonapi/jetty-server-9.2.1.v20140609.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jamonapi/javax.servlet-api-3.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jamonapi/jetty-http-9.2.1.v20140609.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jamonapi/jetty-util-9.2.1.v20140609.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jamonapi/jetty-io-9.2.1.v20140609.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jamonapi/hazelcast-all-3.2.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jamonapi/annotations-1.3.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jamonapi/log4j-1.2.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jamonapi/mail-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jamonapi/activation-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jamonapi/servlet-api-2.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jamonapi/jsp-api-2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jamonapi/jetty-6.1.25.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jamonapi/jetty-util-6.1.25.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jamonapi/servlet-api-2.5-20081211.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jamonapi/catalina-6.0.26.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jamonapi/servlet-api-6.0.26.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jamonapi/juli-6.0.26.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jamonapi/annotations-api-6.0.26.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jamonapi/javaee-api-6.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jamonapi/spring-context-4.0.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jamonapi/spring-aop-4.0.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jamonapi/aopalliance-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jamonapi/spring-beans-4.0.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jamonapi/spring-core-4.0.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jamonapi/commons-logging-1.1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jamonapi/spring-expression-4.0.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jamonapi/aspectjrt-1.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jamonapi/aspectjweaver-1.8.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
